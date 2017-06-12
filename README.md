@@ -40,6 +40,7 @@ Tested on Safari and Chrome
 ## Authors
 
 * **Spencer Kitchen** - Oct 21 2016
+* email: sckitchen.dev@gmail.com
 
 ## Acknowledgments
 
